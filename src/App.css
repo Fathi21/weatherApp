@@ -3,3 +3,39 @@
   height: 100vh;
   width: 100vw;
 }
+
+.card{
+  border-radius: 0px;
+  margin-top: 50px;
+  align-items: center;
+}
+
+.card > img {
+  border-radius: 50%  50%  50% ; 
+  height:100px;
+  width:100px;
+  float: right;
+  margin-top: 10px;
+}
+
+h1{
+  font-size: 2em;
+  text-align: center;
+}
+
+.temp{
+  font-size: 7em;
+  line-height: 1;
+  text-align: center;
+  display: block;
+  padding-left: 30px;
+  margin-bottom: 24px;
+}
+
+.high-low{
+  font-size: 2em;
+  color: lighten(#313E48, 20%);
+  text-align: center;
+  display: block;
+  font-weight: 100;
+}
