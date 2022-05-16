@@ -11,7 +11,7 @@ function BarTop() {
       <div>
         <Navbar bg="light" expand="lg">
             <Container fluid>
-                <Navbar.Brand href="#">Navbar scroll</Navbar.Brand>
+                <Navbar.Brand href="#">Monday - 29 Mar - 19:30</Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbarScroll" />
                 <Navbar.Collapse id="navbarScroll">
                 <Nav

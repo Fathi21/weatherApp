@@ -39,3 +39,11 @@ h1{
   display: block;
   font-weight: 100;
 }
+
+.navbar{
+  border: 2px solid red;
+}
+
+div > .navbar{
+  background: red;
+}
